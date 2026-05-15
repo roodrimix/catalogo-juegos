@@ -1,1 +1,1 @@
-Puntuación máxima: 100
+Record historico: 99
